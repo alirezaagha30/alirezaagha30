@@ -1,7 +1,10 @@
 # 👋 Hello, I'm Alireza – Electronics Hardware Design Specialist and Altium Expert! 
 
-[![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UC-jJgBC9ehgVrvqAeVyyFCA?style=social)](https://www.youtube.com/channel/UC-jJgBC9ehgVrvqAeVyyFCA) 
+[![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UC-jJgBC9ehgVrvqAeVyyFCA?style=social)](https://www.youtube.com/channel/UC-jJgBC9ehgVrvqAeVyyFCA)
+[![YouTube Views](https://img.shields.io/youtube/channel/views/UC-jJgBC9ehgVrvqAeVyyFCA?style=social)](https://www.youtube.com/channel/UC-jJgBC9ehgVrvqAeVyyFCA)
 [![GitHub followers](https://img.shields.io/github/followers/your-github-username?style=social)](https://github.com/your-github-username)
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=your-github-username)](https://github.com/your-github-username)
+
 
 ## 💡 About Me
 I am an **Electronics Engineer** with over a decade of experience in **hardware design**, specializing in **PCB layout**, **schematic capture**, and **signal integrity**. My expertise lies in advanced use of **Altium Designer** to create high-performance, EMC-compliant boards for a variety of applications. As an **Altium Instructor**, I teach the next generation of engineers the fundamentals and advanced techniques in PCB design.
