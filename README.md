@@ -2,7 +2,7 @@
 
 [![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UC-jJgBC9ehgVrvqAeVyyFCA?style=social)](https://www.youtube.com/channel/UC-jJgBC9ehgVrvqAeVyyFCA)
 [![YouTube Views](https://img.shields.io/youtube/channel/views/UC-jJgBC9ehgVrvqAeVyyFCA?style=social)](https://www.youtube.com/channel/UC-jJgBC9ehgVrvqAeVyyFCA)
-[![GitHub Profile Views](https://komarev.com/ghpvc/?username=your-github-username)](https://github.com/your-github-username)
+[![GitHub Profile Views](https://img.shields.io/badge/GitHub--Profile%20Views-blue?logo=github&style=social&logoColor=white)](https://github.com/your-github-username)
 
 
 ## 💡 About Me
