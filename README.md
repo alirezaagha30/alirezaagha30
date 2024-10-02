@@ -1,7 +1,3 @@
-Here's a professional and engaging GitHub profile README template designed to highlight your expertise in Altium Designer, hardware design, and programming, while also promoting your YouTube channel:
-
----
-
 # 👋 Hello, I'm Alireza – Electronics Hardware Design Specialist and Altium Expert! 
 
 [![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UC-jJgBC9ehgVrvqAeVyyFCA?style=social)](https://www.youtube.com/channel/UC-jJgBC9ehgVrvqAeVyyFCA) 
@@ -37,7 +33,3 @@ On my [YouTube channel](https://www.youtube.com/channel/UC-jJgBC9ehgVrvqAeVyyFCA
 - 🎓 Available for Altium Designer training and workshops.
 
 Feel free to reach out or check out my [YouTube channel](https://www.youtube.com/channel/UC-jJgBC9ehgVrvqAeVyyFCA) for more content!
-
----
-
-Feel free to modify the links and sections according to your preferences. This template provides a professional feel with highlights of your skills and expertise, while the emojis add a bit of personality to engage readers.
