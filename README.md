@@ -3,7 +3,8 @@
 [![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UC-jJgBC9ehgVrvqAeVyyFCA?style=social)](https://www.youtube.com/channel/UC-jJgBC9ehgVrvqAeVyyFCA)
 [![YouTube Views](https://img.shields.io/youtube/channel/views/UC-jJgBC9ehgVrvqAeVyyFCA?style=social)](https://www.youtube.com/channel/UC-jJgBC9ehgVrvqAeVyyFCA)
 [![GitHub followers](https://img.shields.io/github/followers/your-github-username?style=social)](https://github.com/your-github-username)
-[![GitHub Profile Views](https://img.shields.io/badge/GitHub--Profile%20Views-blue?logo=github&style=social&logoColor=white)](https://komarev.com/ghpvc/?username=your-github-username)
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat&label=Profile+Views) ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)
+
 
 
 
